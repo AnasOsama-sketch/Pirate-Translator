@@ -1,3 +1,4 @@
+
 $(document).ready(function(){
     $("#normal").keyup(function(){
 
